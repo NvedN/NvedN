@@ -8,7 +8,6 @@
 
 🧑‍💻I can code on Java
 
-🆕I'm using spring framework
 
 
 <!---
