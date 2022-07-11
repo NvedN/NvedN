@@ -4,7 +4,7 @@
 
 💻I'm experienced back-end developer
 
-⚒️I have been working for LMP-project group for 1,6 years as full stack developer
+⚒️I have been working for LMP-project group for 2 years as full stack developer
 
 🧑‍💻I can code on Java
 
