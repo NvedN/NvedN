@@ -1,6 +1,6 @@
                                                            Hi there, I'm Nikita
 
-🤷‍♂️I'm 22 years old, I live in Moscow, if you want to know more about me, just text me on my email or hh)
+🤷‍♂️I'm 23 years old, I live in Moscow, if you want to know more about me, just text me
 
 💻I'm experienced back-end developer
 
