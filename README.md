@@ -11,6 +11,11 @@
 
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NvedN)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 # How to contact me
 
 ✉️ email: nikisvedenyapin@gmail.com  
