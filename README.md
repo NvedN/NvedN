@@ -15,10 +15,10 @@
 
 # How to contact me
 
-✉️ email: nikisvedenyapin@gmail.com  
- ✈️ telegram: @nikisv   
-👷‍♂️ hh resume: https://hh.ru/resume/5e282a14ff09d85ea00039ed1f527967687846   
-![linkedin-original](https://user-images.githubusercontent.com/35899629/211145618-7d76faba-a82b-42c6-93f1-4e167ab82ee9.svg) LinkedIn resume: https://www.linkedin.com/in/nikita-vedenyapin-7451b6203 
+✉️  email: nikisvedenyapin@gmail.com  
+✈️  telegram: @nikisv   
+👷‍♂️ HH resume: https://hh.ru/resume/5e282a14ff09d85ea00039ed1f527967687846   
+👷‍♂️ LinkedIn resume: https://www.linkedin.com/in/nikita-vedenyapin-7451b6203 
 
 <!---
 NvedN/NvedN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
