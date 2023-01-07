@@ -13,8 +13,8 @@
 
 # How to contact me
 
-✉️ email: nikisvedenyapin@gmail.com
-✈️ telegram: @nikisv
+✉️ email: nikisvedenyapin@gmail.com  
+ ✈️ telegram: @nikisv   
 👷‍♂️ hh resume: https://hh.ru/resume/5e282a14ff09d85ea00039ed1f527967687846
 
 <!---
