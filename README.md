@@ -10,6 +10,13 @@
 
 
 
+
+# How to contact me
+
+✉️ email: nikisvedenyapin@gmail.com
+✈️ telegram: @nikisv
+👷‍♂️ hh resume: https://hh.ru/resume/5e282a14ff09d85ea00039ed1f527967687846
+
 <!---
 NvedN/NvedN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
