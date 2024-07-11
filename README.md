@@ -1,9 +1,9 @@
 # Hi there, I'm Nikita
-🤷‍♂️I'm 23 years old, I live in Moscow, if you want to know more about me, just text me
+🤷‍♂️I'm 25 years old, I live in Moscow, if you want to know more about me, just text me
 
 💻I'm experienced back-end developer
 
-⚒️I have been working for LMP-project group for 3 years as full stack developer
+⚒️I have been working for LMP-project group for 4 years as full stack developer
 
 
 
