@@ -5,6 +5,8 @@
 
 ⚒️I have been working for LMP-project group for 4 years as full stack developer
 
+⚒️Currently i'm responsible for leading development engineering initiatives at Sber.
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NvedN&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
