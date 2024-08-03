@@ -5,7 +5,7 @@
 
 ⚒️I have been working for LMP-project group for 4 years as full stack developer
 
-⚒️Currently i'm responsible for leading development engineering initiatives at Sber.
+⚒️Currently i'm responsible for leading development engineering initiatives at Sber as a Java Software Engineer
 
 
 
