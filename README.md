@@ -1,11 +1,12 @@
 # Hi there, I'm Nikita
-🤷‍♂️I'm 25 years old, I live in Moscow, if you want to know more about me, just text me
+🤷‍♂️ I'm 25 years old, if you want to know more about me, just text me
 
-💻I'm experienced back-end developer
+💻 I'm experienced Experienced Software Engineer with over 5 years of expertise in backend development,
+microservices, and DevOps. I have a strong background in developing complex
+solutions, particularly using Spring Boot, ETL processes, and various system
+integrations such as AWS S3, Keycloak and ClickHouse
 
-⚒️I have been working for LMP-project group for 4 years as full stack developer
-
-⚒️Currently i'm responsible for leading development engineering initiatives at Sber as a Java Software Engineer
+⚒️ Currently i'm responsible for leading development engineering initiatives at Sber as a Java Software Engineer
 
 
 
