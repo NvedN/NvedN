@@ -18,7 +18,7 @@ integrations such as AWS S3, Keycloak and ClickHouse
 # How to contact me
 
 ✉️  email: nikisvedenyapin@gmail.com  
-✈️  telegram: @nikisv   
+✈️  telegram: [@nikisv](https://t.me/nikisv)    
 👷‍♂️ HH resume: https://hh.ru/resume/5e282a14ff09d85ea00039ed1f527967687846   
 👷‍♂️ LinkedIn resume: https://www.linkedin.com/in/nikita-vedenyapin-7451b6203 
 
