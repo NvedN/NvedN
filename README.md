@@ -6,7 +6,7 @@ microservices, and DevOps. I have a strong background in developing complex
 solutions, particularly using Spring Boot, ETL processes, and various system
 integrations such as AWS S3, Keycloak and ClickHouse
 
-⚒️ Currently i'm responsible for leading development engineering initiatives at Sber as a Java Software Engineer
+⚒️ Currently i'm responsible for leading development engineering initiatives at Sber as a Software Engineer
 
 
 
