@@ -1,7 +1,7 @@
 # Hi there, I'm Nikita
 🤷‍♂️ I'm 25 years old, if you want to know more about me, just text me
 
-💻 I'm experienced Experienced Software Engineer with over 5 years of expertise in backend development,
+💻 I'm experienced Software Engineer with over 5 years of expertise in backend development,
 microservices, and DevOps. I have a strong background in developing complex
 solutions, particularly using Spring Boot, ETL processes, and various system
 integrations such as AWS S3, Keycloak and ClickHouse
