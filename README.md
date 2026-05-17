@@ -1,6 +1,6 @@
 👋 Hi, I'm Nikita Vedenyapin
 
-💻 Java Developer with 6+ years of commercial experience in backend development, microservices, and system integrations.
+💻 Software Engineer with 6+ years of commercial experience in backend development, microservices, and system integrations.
 
 I specialize in designing and building backend systems with Java, Spring Boot, Kafka, PostgreSQL, YDB, ClickHouse, and Docker. I have experience with fintech products, payment platforms, BI systems, ETL processes, authentication services, and event-driven architectures.
 
