@@ -1,12 +1,12 @@
-# Hi there, I'm Nikita
-🤷‍♂️ I'm 25 years old, if you want to know more about me, just text me
+👋 Hi, I'm Nikita Vedenyapin
 
-💻 I'm experienced Software Engineer with over 5 years of expertise in backend development,
-microservices, and DevOps. I have a strong background in developing complex
-solutions, particularly using Spring Boot, ETL processes, and various system
-integrations such as AWS S3, Keycloak and ClickHouse
+💻 Java Developer with 6+ years of commercial experience in backend development, microservices, and system integrations.
 
-⚒️ Currently i'm responsible for leading development engineering initiatives at Sber as a Software Engineer
+I specialize in designing and building backend systems with Java, Spring Boot, Kafka, PostgreSQL, YDB, ClickHouse, and Docker. I have experience with fintech products, payment platforms, BI systems, ETL processes, authentication services, and event-driven architectures.
+
+⚒️ Currently, I’m involved in the development of a new payment platform, working on backend services, integrations, data models, API contracts, and system reliability.
+
+🚀 I’m interested in backend engineering, distributed systems, high-load services, system design, and building reliable production-ready solutions.
 
 
 
